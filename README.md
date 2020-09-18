@@ -13,7 +13,7 @@
 - Gain points
 - OOP, Thread programming
 - JAVA GUI
-    - ![image](https://github.com/samiul0112/2D_game/project.gif)
+    - ![image](https://github.com/samiul0112/2D_game/blob/master/project.gif)
 
 ## Technical overview:
 #### Tools and Software Version used here:
