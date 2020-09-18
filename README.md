@@ -15,7 +15,7 @@
 - JAVA GUI
     - ![image](https://github.com/samiul0112/2D_game/blob/master/project.gif)
 
-## Technical overview:
+### Technical overview:
 #### Tools and Software Version used here:
 - IntelliJ IDEA 2020.2.2 (Ultimate Edition) Build #IU-202.7319.50
 - OpenJDK-14.0.1
