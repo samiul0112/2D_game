@@ -1,4 +1,4 @@
-# Project name: A 2D snake game using the java programming language.
+# A 2D snake game using the java programming language.
 ### Description: This a simple 2D game. The main goal of this project is to apply the OOP concept and java GUI library.
 ## Table of Content
 - [Project Features](#project-features)
